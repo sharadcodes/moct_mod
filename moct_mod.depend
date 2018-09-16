@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537080661 source:c:\users\sharad raj\desktop\moct_mod\main.cpp
+	<iostream>
+	"fundef.h"
+	<windows.h>
+	<cmath>
+	<cstdlib>
+	<iomanip>
+
+1537078942 c:\users\sharad raj\desktop\moct_mod\fundef.h
+
